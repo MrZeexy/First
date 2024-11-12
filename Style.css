@@ -1,0 +1,23 @@
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(99, 48, 146); 
+    color: #000000;
+    /* This is a CSS comment  */
+}
+#Container 
+{background-color: rgb(66, 3, 95);
+width: 200px;
+}
+.ParagrapghStyle{
+color: #000000;
+border: 3px dotted green;
+}
+.Button {
+color: rgb(227, 22, 22);
+background-color: aquamarine;
+}
